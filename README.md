@@ -2,7 +2,6 @@
 - 👶 I am a Junior in this amazing industry.
 - 📚 I’m currently learning everything I can.
 - 💻 I am interested in Web Development.
-- 💞️ I’m looking for a mentor.
 - 💌 How to reach me: biciu.diana@yahoo.com
 
 <!---
