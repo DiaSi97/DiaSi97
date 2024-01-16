@@ -1,6 +1,6 @@
 - 😊 Hello! I’m Dia.
-- 👶 I am a Junior in this amazing industry.
-- 📚 I’m currently learning everything I can.
+- 👶 I am a Junior in the IT industry.
+- 📚 I’m currently learning.
 - 💻 I am interested in Web Development.
 - 💌 How to reach me: biciu.diana@yahoo.com
 
