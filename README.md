@@ -1,6 +1,6 @@
-❣️ Hiii! I’m Dia 😊
-❣️ I am a junior in a world of opportunities and am learning daily 📖
-❣️ Curious about new technologies & tools 💻📱
+❣️ Hiii! I’m Dia 😊 </br> 
+❣️ I am a junior in a world of opportunities and am learning daily 📖 </br> 
+❣️ Curious about new technologies & tools 💻📱 </br> 
 ❣️ How to reach me: biciu.diana@yahoo.com 💌
 
 <!---
